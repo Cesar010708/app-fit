@@ -13,7 +13,7 @@ estima sus calorías y macros.
   estatura y metas de calorías, proteínas, carbohidratos y grasas.
 - **Foto del plato:** la cámara o la galería mandan la imagen a un modelo de visión, que devuelve
   cada ingrediente por separado con sus macros por unidad y la cantidad estimada.
-- **Registro manual** de comidas por tipo (desayuno, comida, cena y snack).
+- **Registro manual** de comidas por tipo (desayuno, almuerzo, cena y snack).
 - **Panel del día:** anillo de calorías, barras y anillos de macros y registro de agua.
 - **Historial** por fecha.
 
